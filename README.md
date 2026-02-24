@@ -50,7 +50,7 @@ O arquivo [`5240251 Fabio Santos.xlsx`](./5240251%20Fabio%20Santos.xlsx) contém
 Este projeto foi desenvolvido em planilha Excel para fins acadêmicos.  
 Para reproduzir:  
 1. Abra o arquivo `5240251 Fabio Santos.xlsx`.  
-2. Navegue pelas abas **Amostra**, **Treinamento** e **Validação**.  
+2. Navegue pelas abas **Capa**, **Neuronio**, **Trinamento** e **Amostra**.  
 3. Insira novos padrões na aba de validação para observar a resposta do neurônio.  
 
 ---
